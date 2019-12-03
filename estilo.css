@@ -188,14 +188,14 @@ li:hover:not(.active) {
     color: #ca2a2a;
     margin: 30px ;
     border-radius: 15px;
-    background: url(imagenes/ganardor1_a.jpg)  no-repeat center;
+    background: url(img/ganardor1_a.jpg)  no-repeat center;
     background-size: 100% 100%;
     padding: 100px;
 
 }
 .columnagal.left:hover{
 
-    background-image:url(imagenes/ganardor1_b.jpg) ;
+    background-image:url(img/ganardor1_b.jpg) ;
     display: block;
     color: transparent;
 }
@@ -209,14 +209,14 @@ li:hover:not(.active) {
     color: #ca2a2a;
     margin: 30px ;
     border-radius: 15px;
-    background: url(imagenes/ganardor4_a.jpg)  no-repeat center;
+    background: url(img/ganardor4_a.jpg)  no-repeat center;
     background-size: 100% 100%;
     padding: 100px;
 
 }
 .columnagal.left2:hover{
 
-    background-image:url(imagenes/ganardor4_b.jpg) ;
+    background-image:url(img/ganardor4_b.jpg) ;
     display: block;
     color: transparent;
 }
@@ -230,14 +230,14 @@ li:hover:not(.active) {
     color: #ca2a2a;
     margin: 30px ;
     border-radius: 15px;
-    background: url(imagenes/ganardor2_a.jpg)  no-repeat center;
+    background: url(img/ganardor2_a.jpg)  no-repeat center;
     background-size: 100% 100%;
     padding: 100px;
 
 }
 .columnagal.centro:hover{
 
-    background-image:url(imagenes/ganardor2_b.jpg) ;
+    background-image:url(img/ganardor2_b.jpg) ;
     display: block;
     color: transparent;
 }
@@ -250,13 +250,13 @@ li:hover:not(.active) {
     color: #ca2a2a;
     margin: 30px ;
     border-radius: 15px;
-    background: url(imagenes/ganardor5_a.jpg)  no-repeat center;
+    background: url(img/ganardor5_a.jpg)  no-repeat center;
     background-size: 100% 100%;
     padding: 100px;
 }
 .columnagal.centro2:hover{
 
-    background-image:url(imagenes/ganardor5_b.jpg) ;
+    background-image:url(img/ganardor5_b.jpg) ;
     display: block;
     color: transparent;
 }
@@ -269,14 +269,14 @@ li:hover:not(.active) {
     color: #ca2a2a;
     margin: 30px  ;
     border-radius: 15px;
-    background: url(imagenes/ganardor3_a.jpg)  no-repeat center;
+    background: url(img/ganardor3_a.jpg)  no-repeat center;
     background-size: 100% 100%;
     padding: 100px;
 
 }
 .columnagal.rigth:hover{
 
-    background-image:url(imagenes/ganardor3_b.jpg) ;
+    background-image:url(img/ganardor3_b.jpg) ;
     display: block;
     color: transparent;
 }
