@@ -4,7 +4,7 @@ h1{
 margin: 10px auto;
 text-align: center;
 text-decoration: underline;
-
+font-size: 40px;
 }
 
 h2{
@@ -131,38 +131,24 @@ li:hover:not(.active) {
         
       
 }
+ table{
 
-
-
-.columna {
-    
-    padding: 0px;
-    height: 100%;
-    
-  }
-.columna.central {
     float: center;
-    width: 90%;
-    background: #000000;
-    padding: 20px;
-    height: 100%;
-    margin: 10px auto;
-    color: #ffffff;
-    border-radius: 2%;
-    overflow: hidden;
-  }
 
+
+
+ }
   .columnacom {
-    float: center;
+    float: left;
     padding: 80px;
     height: 100%;
     width: 10%;
-
+    margin: -49px -225px 0px 60px;
   }
 
  .columnacom.tom {
     
-    margin: 30px auto;
+    
     background: url(img/Tom.jpg)  no-repeat center;
     background-size: 100% 100%;
     background-color: #ffffff;
@@ -171,7 +157,7 @@ li:hover:not(.active) {
 
   .columnacom.silve {
     
-    margin: 30px auto;
+   
     background: url(img/Silvestre.jpg)  no-repeat center;
     background-size: 100% 100%;
     background-color: #ffffff;
@@ -180,7 +166,7 @@ li:hover:not(.active) {
 
   .columnacom.garf {
     
-    margin: 30px auto;
+    
     background: url(img/Garfield.png)  no-repeat center;
     background-size: 100% 100%;
     background-color: #ffffff;
@@ -476,7 +462,7 @@ a{color:inherit;text-decoration:none}
     border: 5px;
 }
 
-    @media (max-width: 1160px) {.logo, a, li, ul, section, header, footer {
+    @media (max-width: 1160px) {.logo, a, li, ul, section, header, footer, columnacom {
     
         width: 90%;
         height: 100%;
