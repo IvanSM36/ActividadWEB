@@ -2,16 +2,16 @@
 
 <rss version="2.0">
 
-<channel>
-<title>RSS IvanSM</title>
-<link> http://actividad-web-git-paginaweb.apps.us-east-1.starter.openshift-online.com </link>
-<description> Noticias Actualidad</description>
+<channel> <!--Se usa para describir la fuente RSS-->
+<title>RSS IvanSM</title> <!--Define el título del Canal RSS-->
+<link> http://actividad-web-git-paginaweb.apps.us-east-1.starter.openshift-online.com/rss.xml </link> <!--Define el hipervínculo al canal-->
+<description> Noticias Actualidad</description> <!--Describe el canal -->
 
-        <item>
+        <item><!-- Define un artículo o "historia" en la fuente RSS.-->
 
-                <title>El Tiempo</title>
-                <link> https://www.eltiempo.es/moron-de-la-frontera.html</link>
-                <description> El Tiempo en Moron de la Frontera </description>
+                <title>El Tiempo</title> <!--Define el título del artículo-->
+                <link> https://www.eltiempo.es/moron-de-la-frontera.html</link> <!--Define el hipervínculo al elemento-->
+                <description> El Tiempo en Moron de la Frontera </description> <!-- Describe un resumen del artículo -->
                 
         </item>
 
