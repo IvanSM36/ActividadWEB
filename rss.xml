@@ -14,7 +14,7 @@
                 <description> El Tiempo en Moron de la Frontera </description>
                 <image>
 
-                        <url>img/Tiempo.png</url>
+                        <url>http://localhost/img/Tiempo.png</url>
                         <title>ElTiempoMoron</title>
                         <link>https://www.eltiempo.es/moron-de-la-frontera.html</link>
                 
