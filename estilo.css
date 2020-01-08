@@ -43,6 +43,28 @@ header{
     border-radius: 15px;
 }
 
+.facebook{
+
+    width: 5%;
+    float: right;
+    margin: 0px auto;
+    background-image: url(img/facebook.png);
+    background-size: 100% 100%;
+    padding: 20px;
+    border-radius: 2%;
+}
+
+.instagram{
+
+    width: 5%;
+    float: right;
+    margin: 0px auto;
+    background-image: url(img/insta.png);
+    background-size: 100% 100%;
+    padding: 20px;
+    border-radius: 2%;
+}
+
 .twitter{
 
     width: 5%;
