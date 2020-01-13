@@ -42,6 +42,19 @@ header{
     background: #609456;
     border-radius: 15px;
 }
+.atom {
+
+    width: 5%;
+    float: right;
+    margin: 0px auto;
+    background-image: url(img/atom1.png);
+    background-size: 100% 100%;
+    padding: 20px;
+    border-radius: 2%;
+
+}
+
+
 
 .facebook{
 
