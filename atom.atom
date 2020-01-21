@@ -1,35 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es-es">
 
 <link rel="self" type="application/atom+xml" href="http://actividad-web-git-paginaweb.apps.us-east-1.starter.openshift-online.com/index.html/atom.atom" />
 <link rel="alternate" type="text/html" href="http://actividad-web-git-paginaweb.apps.us-east-1.starter.openshift-online.com"/>
 
- <title type="text">Probando ATOM</title>
+<!--Definimos el Canal-->
 
-<id>http://actividad-web-git-paginaweb.apps.us-east-1.starter.openshift-online.com/ </id>
+ <title type="text">Probando ATOM</title> <!--Es el titulo del sitio web de nuestro Canal -->
 
-<updated>2020-13-1T19:20:46Z</updated>
+<id>http://actividad-web-git-paginaweb.apps.us-east-1.starter.openshift-online.com/ </id> <!-- identificador del canal normalmente es la URL-->
 
-    <author>
+<updated>2020-13-1T19:20:46Z</updated> <!--Fecha y hora -->
+
+    <author> <!-- Determina el Autor del enlace.-->
 
         <name>Ivan Salguero Martin</name>
         <email>i.salgueromartin@iesrodmarin.com</email>
 
     </author>
-
+<!--Fin Definicion del Canal-->
 
 <!--Se definen las secciones que forman el canal-->
 
 <entry>
 
-    <title>El tiempo en Moron de la Frontera con Atom</title>
+    <title>El tiempo en Moron de la Frontera con Atom</title> <!-- Es el titulo de la noticia. -->
 
-    <link rel="alternate" type="text/html" href="https://www.eltiempo.es/moron-de-la-frontera.html" />
+    <link rel="alternate" type="text/html" href="https://www.eltiempo.es/moron-de-la-frontera.html" /> <!--Enlace de la noticia-->
 
-    <updated>2020-13-1T19:19:46Z</updated>
+    <updated>2020-13-1T19:19:46Z</updated> <!--Fecha de la noticia-->
 
-    <id>https://www.eltiempo.es/moron-de-la-frontera.html</id>
+    <id>https://www.eltiempo.es/moron-de-la-frontera.html</id> <!--Identificador de la noticia normalmente es la URL-->
 
-    <author>
+    <author> <!--Nombre del Autor de la noticia.-->
 
         <name>IvanSM</name>
 
@@ -37,7 +40,7 @@
 
     </author>
 
-<summary>Consulta el tiempo meteorológico de Moron de la Frontera</summary>
+<summary><![CDATA{ <img src = "img/.png"}] Consulta el tiempo meteorológico de Moron de la Frontera</summary> <!-- Resumen de la noticia.-->
 
 </entry>
 
@@ -59,7 +62,7 @@
 
 </author>
 
-    <summary>Noticias de Moron dela Fronteras con Atom</summary>
+    <summary><![CDATA [ <img src = "img/Tiempo.png" alt="" ]]>>Noticias de Moron dela Fronteras con Atom</summary>
 
 </entry>
 
