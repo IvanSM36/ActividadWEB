@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<xml version="1.0" encoding="utf-8">
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es-es">
 
 <link rel="self" type="application/atom+xml" href="http://actividad-web-git-paginaweb.apps.us-east-1.starter.openshift-online.com/index.html/atom.atom" />
@@ -40,7 +40,7 @@
 
     </author>
 
-<summary><![CDATA[ <img src = "img/Tiempo.png" alt="" ]]>> Consulta el tiempo meteorológico de Moron de la Frontera</summary> <!-- Resumen de la noticia.-->
+<summary><![CDATA[<img src = "img/rss/Tiempo.png" alt="" ]]>> Consulta el tiempo meteorológico de Moron de la Frontera</summary> <!-- Resumen de la noticia.-->
 
 </entry>
 
@@ -61,8 +61,8 @@
     <email>i.salgueromartin@iesrodmarin.com</email>
 
 </author>
-
-    <summary><![CDATA [ <img src = "img/Tiempo.png" alt="" ]]>>Noticias de Moron dela Fronteras con Atom</summary>
+                <!--para insertar imagen en el atom-->
+    <summary><![CDATA[ <img src = "img/rss/Noticia.png" alt="" ]]>>Noticias de Moron dela Fronteras con Atom</summary>
 
 </entry>
 
