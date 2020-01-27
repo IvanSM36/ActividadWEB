@@ -40,8 +40,7 @@
 
     </author>
 
-    
-<summary><![CDATA[<img src = "img/rss/Tiempo.png" alt="" ]]>> Consulta el tiempo meteorológico de Moron de la Frontera</summary> <!-- Resumen de la noticia.-->
+<summary><![CDATA[<img src = "/img/rss/Tiempo.png" alt="" ]]>> Consulta el tiempo meteorológico de Moron de la Frontera</summary> <!-- Resumen de la noticia.-->
 
 </entry>
 
@@ -63,11 +62,10 @@
 
 </author>
                 <!--para insertar imagen en el atom-->
-    <summary>>Noticias de Moron dela Fronteras con Atom</summary>
+    <summary><![CDATA[ <img src = "/img/rss/Noticia.png" alt="" ]]>>Noticias de Moron dela Fronteras con Atom</summary>
 
 </entry>
-<icon>img/rss/Noticias.png</icon>
-<logo>img/rss/Noticias.png</logo>
+
 </feed>
 
 </xml>
