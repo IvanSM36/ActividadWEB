@@ -39,7 +39,8 @@
         <email>i.salgueromartin@iesrodmarin.com</email>
 
     </author>
-
+    <icon>img/rss/Noticias.png</icon>
+	<logo>img/rss/Noticias.png</logo>
 <summary><![CDATA[<img src = "img/rss/Tiempo.png" alt="" ]]>> Consulta el tiempo meteorológico de Moron de la Frontera</summary> <!-- Resumen de la noticia.-->
 
 </entry>
@@ -62,7 +63,7 @@
 
 </author>
                 <!--para insertar imagen en el atom-->
-    <summary><![CDATA[ <img src="img/rss/Noticia.png"  ]]>>Noticias de Moron dela Fronteras con Atom</summary>
+    <summary>>Noticias de Moron dela Fronteras con Atom</summary>
 
 </entry>
 
