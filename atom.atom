@@ -62,7 +62,7 @@
 
 </author>
                 <!--para insertar imagen en el atom-->
-    <summary><![CDATA[ <img src = "/img/rss/Noticia.png" alt="" ]]>>Noticias de Moron dela Fronteras con Atom</summary>
+    <summary><![CDATA[ <img src = "http://actividad-web-git-paginaweb.apps.us-east-1.starter.openshift-online.com/img/rss/Noticia.png" alt="" ]]>>Noticias de Moron dela Fronteras con Atom</summary>
 
 </entry>
 
