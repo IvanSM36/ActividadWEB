@@ -39,7 +39,7 @@
         <email>i.salgueromartin@iesrodmarin.com</email>
 
     </author>
-
+          <!--Introducimos la url de nuestra imagen de nuestro feed -->
 <summary><![CDATA[<img src = "http://actividad-web-git-paginaweb.apps.us-east-1.starter.openshift-online.com/img/rss/Tiempo.png" alt="" ]]>> Consulta el tiempo meteorológico de Moron de la Frontera</summary> <!-- Resumen de la noticia.-->
 
 </entry>
